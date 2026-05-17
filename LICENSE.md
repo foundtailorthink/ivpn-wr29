@@ -1,4 +1,4 @@
-
+Automático IVPN Extensão | proteção contra vazamento de DNS + suporte P2P é o melhor IVPN extensão com proteção contra vazamento de DNS e suporte P2P. Seguro e otimizado.
 
 
 
