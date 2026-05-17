@@ -1,10 +1,10 @@
-Automatic IVPN Extension | DNS leak protection + P2P support is the best IVPN extension with DNS leak protection and P2P support. Secure and optimized.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/ivpn-wr29/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
