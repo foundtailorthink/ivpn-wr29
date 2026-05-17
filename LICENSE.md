@@ -1,10 +1,10 @@
-آلي IVPN امتداد | حماية تسرب DNS + دعم P2P هو أفضل IVPN امتداد مع حماية تسرب DNS و دعم P2P. آمن ومُحَسّن.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://foundtailorthink.github.io/ivpn-wr29/) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
